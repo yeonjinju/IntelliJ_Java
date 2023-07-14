@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Step05Final:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Step05Final_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Step05Final/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Step05Final" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Step04FetchAPI:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Step04FetchAPI_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Step04FetchAPI/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Step04FetchAPI" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
